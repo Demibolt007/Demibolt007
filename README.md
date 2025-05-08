@@ -1,7 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQH97hG224RhoQ/profile-displaybackgroundimage-shrink_350_1400/B4DZXZeeolHIAY-/0/1743110402326?e=1752105600&v=beta&t=Y2NLLK9Js-cfLXZlmPmAlRNKN8X69GL1Qw9LlqSHOpw)
 <h1 align="center">Hi 👋, I'm Oluwademilade Adeniyi</h1>
 <h3 align="center">I'm a ata Analyst & Data Visualisation Specialist with a knack for turning raw data into clean, compelling stories. Whether it's through Excel, Power BI, or SQL, I love transforming messy datasets into sharp insights that drive clarity and action.</h3>
-<img align="right" alt="Coding" width="400" src="![Coding GIF](https://github.com/user-attachments/assets/1594c617-8221-47ba-aecd-0814fb0b6504)">
 
 
 - 🔭 I’m currently working as a **Data Analyst Intern at Vephla University**.
