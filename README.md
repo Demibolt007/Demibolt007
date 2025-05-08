@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on **data-related projects**.
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/demibolt](https://www.datascienceportfol.io/demibolt).
+- 👨‍💻 All my projects are available [here](https://www.datascienceportfol.io/demibolt).
 
-- 📝 I regularly write articles on [https://medium.com/@demibolt](https://medium.com/@demibolt).
+- 📝 I regularly write articles on [Medium](https://medium.com/@demibolt).
 
 - 💬 Ask me about **Data Visualisation and Data Analysis**.
 
-- 📫 Contact me on **adeniyioluwademilade@gmail.com**
+- 📫 Contact me via **[e-mail](mailto:adeniyioluwademilade@gmail.com)**.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lh1E8YSTQ4iUzZ7F3I5stTCgAV_LPzt9/view?usp=sharing](https://drive.google.com/file/d/1lh1E8YSTQ4iUzZ7F3I5stTCgAV_LPzt9/view?usp=sharing).
 
